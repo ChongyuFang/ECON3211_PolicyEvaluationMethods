@@ -3,7 +3,7 @@ Fall 2020, The Chinese University of Hong Kong, Shenzhen
 
 This is the repository of my Stata do files for finishing tasks in the problem sets. Problem sets questions, regression results and figures (if applicable) are also provided. Data is subject to copyright protection, thus, cannot be uploaded on my GitHub account but available upon request.
 
-This course is an semester-long hands-on research-based boot camp to econometric/causal inference methods used in modern economics. Topics include randomized control trials (RCT), instrumental variable (IV), Difference-in-Difference (DID), and regression discontinuity designs (RDD).
+This course is an semester-long hands-on research-based boot camp to econometric/causal inference methods used in modern economics. Topics include **randomized control trials (RCT)**, **instrumental variable (IV)**, **Difference-in-Difference (DID)**, and **regression discontinuity designs (RDD)**.
 
 ### Problem Set 1
 Applications of randomized control trials (RCT) in Stata based on China Education Panel Survey (CEPS) data.
